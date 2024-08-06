@@ -1,1 +1,1 @@
-select count(*) from dba_users;
+select count(*) from dba.tables;
