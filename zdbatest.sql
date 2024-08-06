@@ -1,1 +1,1 @@
-select count(*) from dba.tables;
+select count(*) from dba_tables;
